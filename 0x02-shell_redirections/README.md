@@ -1,1 +1,0 @@
-This is a README file! For Shell I/O redirections and filters.
